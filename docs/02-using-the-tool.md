@@ -40,7 +40,7 @@ To export a report:
 4. Select **Generate Report**.
 5. Choose **Download CSV** or **Download PDF**.
 
-Exported reports can be shared with authorized stakeholders.
+Exported reports should be shared only with authorized stakeholders in accordance with internal data governance policies.
 
 ---
 
