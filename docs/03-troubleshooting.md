@@ -72,4 +72,4 @@ Changes to notification settings do not persist.
 
 ---
 
-If issues persist after following these steps, escalate to the IT support team with relevant error details and timestamps.
+If issues persist after following these steps, escalate to the IT support team and include relevant error details, timestamps, and screenshots when available.
